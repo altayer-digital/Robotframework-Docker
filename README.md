@@ -6,14 +6,12 @@ Clone repo
   
 ```
 git clone https://github.com/khanbhai89/robot-framework.git
-
 ```
 
 Build Docker
 
 ```
 docker build -t robotframework-docker .
-
 ```
 
 ## Running Tests
