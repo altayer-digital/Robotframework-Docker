@@ -1,0 +1,12 @@
+altayer_error_logs.txt
+.idea
+results*/*
+results/*
+user-info-csv/*
+import-csv/*
+*.pyc
+*.DS_Store
+log.html
+report.html
+execution/settings/*_local.txt
+*.csv

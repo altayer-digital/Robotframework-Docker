@@ -1,0 +1,26 @@
+# DO NOT REMOVE OR EDIT THIS FILE
+# you can use below commant to install all libraries which is require for execute this project.
+# $pip install -r requirements.txt
+
+robotframework
+robotframework-sshlibrary
+robotframework-selenium2library
+robotframework-debuglibrary
+robotframework-faker
+robotframework-httplibrary
+requests[security]
+robotframework-requests
+robotframework-xvfb
+certifi
+urllib3[secure]
+openpyxl
+pyyaml
+Pillow
+ndg-httpsclient
+pyopenssl
+pyasn1
+robotframework-testrail
+robotframework-angularjs
+pyvirtualdisplay
+robotframework-pabot
+robotframework-pageobjectlibrary

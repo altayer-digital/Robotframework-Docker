@@ -1,0 +1,32 @@
+{
+  "main": {
+    "admin":"panel.amazon.com",
+    "frontend": {
+      "prod": {
+        "english": {
+          "us": "www.amazon.com/",
+          "uk": "www.amazon.co.uk/"
+        },
+        "spanish":{
+          "us":"www.amazon.com/?language=es_US",
+          "uk":"www.amazon.co.uk/?language=es_UK"
+        }
+      }
+    }
+  },
+  "music": {
+    "admin": "panel.music.amazon.com",
+    "frontend": {
+      "prod": {
+        "english": {
+          "us": "music.amazon.com/home",
+          "uk": "music.amazon.co.uk/home"
+        },
+        "spanish": {
+          "us": "music.amazon.co.uk/home",
+          "uk": "music.amazon.co.uk/home?language=es_UK"
+        }
+      }
+    }
+  }
+}
