@@ -62,6 +62,7 @@ When using tags on the projects you can select tags from below.
 - Browserstack Support
 - Timeouts
 - Headless run in Docker support
-- Save screernshot in a folder
+- Save screenshot in a folder
 - URL Generator config
 - Al Tayer library support i.e. write to log, browserstack build url in logs, save customers, generate random emails and save orders. 
+
