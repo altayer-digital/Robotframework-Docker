@@ -59,6 +59,7 @@ When using tags on the projects you can select tags from below.
 - Async Run to cancel build on local
 - Jenkins Supported build
 - Parallel Run support
+- Retry to test if fails
 - Dockerized Container
 - Browserstack Support
 - Timeouts
