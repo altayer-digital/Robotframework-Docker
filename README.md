@@ -51,3 +51,17 @@ When using tags on the projects you can select tags from below.
 - search
 - stable
 - regression
+
+## Feature List
+
+- Variable-based run on Tests, Suites, Brand, Country, Version, Remote Desired, Number of Parallel Processes, Tags and Result folders.
+- Async Run to cancel build on local
+- Jenkins Supported build
+- Parallel Run support
+- Dockerized Container
+- Browserstack Support
+- Timeouts
+- Headless run in Docker support
+- Save screernshot in a folder
+- URL Generator config
+- Al Tayer library support i.e. write to log, browserstack build url in logs, save customers, generate random emails and save orders. 
