@@ -4,13 +4,13 @@
 
 Clone repo 
   
-```commandline
+```bash
 git clone https://github.com/khanbhai89/robot-framework.git
 ```
 
 Build Docker
 
-```commandline
+```bash
 docker build -t robotframework-docker .
 ```
 
@@ -20,7 +20,7 @@ To run execute `./run_tests.sh`
 
 Customize `run_tests.sh` for your own need
 
-```commandline
+```bash
 docker run --rm \
            -e USERNAME="Hammad Ahmed" \
            --net=host \
