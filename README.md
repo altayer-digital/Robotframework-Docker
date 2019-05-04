@@ -5,7 +5,7 @@
 Clone repo 
   
 ```bash
-git clone https://github.com/khanbhai89/robot-framework.git
+git clone https://github.com/altayer-digital/robot-framework.git
 ```
 
 Build Docker
